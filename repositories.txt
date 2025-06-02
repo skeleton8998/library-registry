@@ -55,7 +55,7 @@ https://github.com/Kenneract/SPL07-003-Arduino-Library
 https://github.com/JakubSdf/LedDisplayFonts
 https://github.com/Amanecer-Digital-SL/am_ambot_library
 https://github.com/Infineon/arduino-xensiv-angle-sensor-tlx5012
-https://github.com/csobirka/SevenSegment
+https://github.com/skeleton8998/SevenSegment
 https://github.com/Zeppelin500/MBusCom
 https://github.com/MYCAMEL222/AbleTP
 https://github.com/snowhalationmkii/TTP229_BS81X_Serial
